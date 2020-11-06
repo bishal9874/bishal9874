@@ -1,4 +1,26 @@
-### Hi there 👋
+## :boy: Bishal Mondal
+
+Hi! I'm **Bishal Mondal**. 
+
+A simple guy who is very passionate about programming & gaming (Not PubgMobile emulator :satisfied:).
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=bishal9874)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<!--#### Support
+If you like my work, support me :blush:.-->
+
+
+<!--
+**epicX67/epicX67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
--🔭 I’m currently working on Flutter
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
