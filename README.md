@@ -2,7 +2,7 @@
 
 Hi! I'm **Bishal Mondal**. 
 
-A simple guy who is very passionate about programming & gaming (Not PubgMobile emulator :satisfied:).
+A simple guy who is very passionate about programming and outdoor games like Cricket & football.
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=bishal9874)](https://github.com/anuraghazra/github-readme-stats)
 
